@@ -7,7 +7,7 @@ This implementation is respectful notably to the design called by the author of 
 
 The purpose is not to get a compliant and powerful implementation of any standard (not UML nor W3C) but to offer a practical tool for the Java developer.
 
-This implementation is in a way `stateless` as all side effects are deported to a custom class outside of library (generic C class for Context).
+This implementation is in a way `stateless` as all side effects are deported to a custom class outside of the library by using a generic C class for Context.
 
 Feel free to comment or contribute.
 
