@@ -1,5 +1,7 @@
 # hsm-stateless
 
+![Maven Central](https://img.shields.io/maven-central/v/io.microlam/hsm-stateless)
+
 Hierarchical State Machine (HSM) whose representation is called [Statecharts](https://statecharts.dev) is a precious help for designing and implementing complex systems.
 
 This repository offer an implementation in Java based on the design of the book ["Practical Statecharts in C/C++"](https://www.state-machine.com/psicc) available for download as [pdf](https://www.state-machine.com/doc/PSiCC.pdf).
